@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - woodInteractable
+  - Locomotion
+  - PassThrough
+  - PassThroughButton
+  - LocoButton
+  - LocoText
+  - groundZone
+  - QDSUIToggleBorderlessButton
+  - QDSUIIcon
+  - QDSUIToggleButton
+  - bucket
+  - dung
+  - Machette
+  - y_branch
+  - y_branch_L
+  - y_branch_XL
+  - l_branch
+  - l_branch_L
+  - l_branch_XL
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Tree
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
